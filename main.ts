@@ -4,7 +4,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     myCorg.bark()
 })
 let myCorg: Corgio = null
-game.splash("Welcome to:", "CorgiSim!")
+game.splash("Welcome to:", "CorgLife!")
 scene.setBackgroundImage(img`
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
