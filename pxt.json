@@ -1,5 +1,6 @@
 {
     "name": "CorgLife 1 (MakeCode Edition)",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
